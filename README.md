@@ -15,13 +15,13 @@ Quick boilerplate setup for making React Single Page Applications with Typescrip
 ## Getting started
 create fresh app
 ```sh
-git clone --url-- my-app
+git clone https://github.com/Eyewavu/react-template.git my-app
 cd my-app
 yarn install && yarn dev
 ```
 or add to existing directory
 ```sh
-git clone --url-- .
+git clone https://github.com/Eyewavu/react-template.git .
 yarn install && yarn dev
 ```
 
