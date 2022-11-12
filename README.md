@@ -57,5 +57,3 @@ my-app/
 "@c" - src/components/
 "@ctx" - src/context/
 ```
-
-## DevDependencies used
