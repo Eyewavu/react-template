@@ -1,4 +1,4 @@
-# Node.js Typescript template
+# React Typescript Template
 
 <div align="center">
   <img src="https://pl.reactjs.org/favicon.ico" alt="react" width="32" height="32">
